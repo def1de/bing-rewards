@@ -3,6 +3,7 @@ import pyperclip
 import keyboard
 import json
 import time
+import os
 
 isOn = False
 
@@ -46,6 +47,7 @@ def auto_copy():
 
 
 if __name__ == "__main__":
+    os.startfile("msedge")
 
     keyboard.add_hotkey("ctrl+b", switch)
 
