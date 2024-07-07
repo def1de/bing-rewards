@@ -40,3 +40,5 @@ source venv/bin/activate
 ```
 <kbd>Ctrl</kbd> + <kbd>B</kbd> to activate a macro<br>
 <kbd>Ctrl</kbd> + <kbd>B</kbd> again to deactivate a macro
+
+# NOTE: If there are some issues with gaining points. Feel free to open an issue.
