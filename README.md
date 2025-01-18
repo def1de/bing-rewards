@@ -1,5 +1,5 @@
 # Microsoft bing rewards macro
-Allows you to automatically search on bing to get daily points
+Allows you to automatically search on bing to get daily points<br>
 **USE AT YOUR OWN RISK**
 
 ---
